@@ -1,2 +1,3 @@
 # expressNodePugMongo
-Expanding my express skills on node, connecting to mongodb with pug templates
+The Jade templates changed thier name to pug.
+I plan on testing the diffs here.
